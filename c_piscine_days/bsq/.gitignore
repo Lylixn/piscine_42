@@ -1,0 +1,7 @@
+map.perl
+.idea
+.vscode
+bsq
+*.o
+*.swp
+debugage
